@@ -1,0 +1,26 @@
+{
+  "name": "oracle-cmc",
+  "version": "1.0.0",
+  "description": "Simple guide to Ethereum Oracle: https://kndrck.co/posts/ethereum_oracles_a_simple_guide/",
+  "main": "client.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "fetch": "^1.1.0",
+    "truffle-contract": "^3.0.6",
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETHBuenosAires-Doiim/Oracle-CMC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ETHBuenosAires-Doiim/Oracle-CMC/issues"
+  },
+  "homepage": "https://github.com/ETHBuenosAires-Doiim/Oracle-CMC#readme"
+}
